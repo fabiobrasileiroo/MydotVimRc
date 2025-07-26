@@ -1,7 +1,7 @@
 # MydotVimRc
 My vim setup
 
-``` bash
+``` vimscript
 " Ativa syntax highlight e indentação automática
 syntax on
 filetype plugin indent on
