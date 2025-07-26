@@ -1,5 +1,5 @@
 # MydotVimRc
-My config vim
+My vim setup
 
 ``` bash
 " Ativa syntax highlight e indentação automática
